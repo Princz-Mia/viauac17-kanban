@@ -28,11 +28,11 @@ npm -v
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kanban-board-app.git
+git clone https://github.com/Princz-Mia/viauac17-kanban.git
 ```
 Navigate to the project directory and install dependencies:
 ```bash
-cd kanban-board-app
+cd viauac17-kanban
 npm install
 ```
 
